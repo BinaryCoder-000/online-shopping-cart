@@ -1,4 +1,4 @@
-package com.shop.model;
+package model;
 
 public class CartItem {
 

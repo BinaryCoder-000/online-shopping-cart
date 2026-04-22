@@ -1,8 +1,8 @@
-package com.shop.service;
+package service;
 
 import java.util.*;
-import com.shop.model.*;
-import com.shop.database.DatabaseManager;
+import model.*;
+import database.DatabaseManager;
 
 public class StoreService {
 

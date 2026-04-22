@@ -1,8 +1,8 @@
-package com.shop.database;
+package database;
 
 import java.io.*;
 import java.util.*;
-import com.shop.model.Product;
+import model.Product;
 
 public class DatabaseManager {
 

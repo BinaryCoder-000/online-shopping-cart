@@ -1,9 +1,9 @@
-package com.shop.main;
+package main;
 
 import javax.swing.*;
 import java.awt.*;
-import com.shop.ui.*;
-import com.shop.service.StoreService;
+import ui.*;
+import service.StoreService;
 
 public class MainApp extends JFrame {
 
