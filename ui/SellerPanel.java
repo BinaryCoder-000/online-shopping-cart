@@ -1,11 +1,11 @@
-package com.shop.ui;
+package ui;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
-import com.shop.main.MainApp;
-import com.shop.model.Product;
+import main.MainApp;
+import model.Product;
 
 public class SellerPanel extends JPanel {
 

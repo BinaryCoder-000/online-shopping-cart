@@ -1,4 +1,4 @@
-package com.shop.ui;
+package ui;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
@@ -6,8 +6,8 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.util.List;
 import java.util.stream.Collectors;
-import com.shop.main.MainApp;
-import com.shop.model.*;
+import main.MainApp;
+import model.*;
 
 public class BuyerPanel extends JPanel {
 
