@@ -30,18 +30,6 @@ online-shopping-cart/
    - └── main/
 
 
-
----
-
-## ▶️ How to Run
-
-```bash
-javac main/*.java model/*.java service/*.java database/*.java ui/*.java
-java main.MainApp
-
-
-
-
 ## 📸 Screenshots
 
 ### 🔐 Login Page
@@ -50,15 +38,23 @@ java main.MainApp
 ### 🎭 Role Selection
 ![Role](images/RolePage.png)
 
+### 🧑‍💼 Seller Section
+![Seller](images/sellerSection.png)
+
 ### 🛒 Cart View
 ![Cart](images/cart.png)
 
 ### 💳 Checkout
 ![Checkout](images/checkout.png)
+---
 
-### 🧑‍💼 Seller Section
-![Seller](images/sellerSection.png)
 
+
+## ▶️ How to Run
+
+```bash
+javac main/*.java model/*.java service/*.java database/*.java ui/*.java
+java main.MainApp
 
 
 ## ⭐ Project Highlights
