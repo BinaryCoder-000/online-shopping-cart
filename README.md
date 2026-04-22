@@ -27,7 +27,7 @@ online-shopping-cart/
    - ├── service/
    - ├── database/
    - ├── ui/
-   - └── main/[]
+   - └── main/
 
 
 
